@@ -1,5 +1,4 @@
-/**
- let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 arr.pop(); //to remove item from last
 console.log(arr);
 arr.push(10); //to add item at last
@@ -33,15 +32,14 @@ console.log(mergeArr); //20,30,40 has added
 mergeArr.splice(10, 3, 11, 12, 13); //started from 10 item deleted 3 item and added item which has been given
 console.log(mergeArr);
 //we can also use negative number to remove item from last
-**/
 
 //forEach /map/filter/reduce
 //forEach normal method using
-let arr = ["pintu", "chintu", "boka", "choka", "Doka"];
-arr.forEach((name, index) => {
+let arr3 = ["pintu", "chintu", "boka", "choka", "Doka"];
+arr3.forEach((name, index) => {
   console.log(`RANK=${index}:${name}`);
 });
-arr.forEach((name) => {
+arr3.forEach((name) => {
   console.log(`NAME:${name}`);
 });
 //forEach modifying
@@ -58,7 +56,7 @@ user.forEach((user) => {
 //real time application (logging value,action with index,summing values)
 
 //map create new array it doesn't mutate the array
-let mod = arr.map((name) => {
+let mod = arr3.map((name) => {
   let modName = name + "Pandey";
   console.log(modName);
   return modName;
