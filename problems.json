@@ -1,6 +1,5 @@
 [
-    { "title": "Two Sum", "status": "solved" },
-    { "title": "Reverse String", "status": "solved" },
-    { "title": "Merge Intervals", "status": "unsolved" }
-  ]
-  
+  { "title": "Two Sum", "category": "Array", "difficulty": "Easy", "status": "solved" },
+  { "title": "Reverse String", "category": "String", "difficulty": "Easy", "status": "solved" },
+  { "title": "Longest Substring Without Repeating Characters", "category": "String", "difficulty": "Medium", "status": "unsolved" }
+]
