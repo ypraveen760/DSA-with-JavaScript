@@ -1,0 +1,12 @@
+{
+  "name": "dsa-with-javascript",
+  "version": "1.0.0",
+  "description": "Welcome to my repository dedicated to studying Data Structures and Algorithms (DSA) using JavaScript. This repository serves as a comprehensive resource for DSA concepts, implementations, and documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "update-badge": "node scripts/updateBadge.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
