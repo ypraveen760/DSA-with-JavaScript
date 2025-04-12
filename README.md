@@ -1,6 +1,6 @@
 # 📊 DSA with JavaScript
 
-![Progress](https://img.shields.io/badge/DSA-2/3-green)
+![Progress](https://img.shields.io/badge/DSA-0/3038-green)
 
 Welcome to my DSA (Data Structures & Algorithms) practice repository using **JavaScript**!  
 Here, I'm solving popular coding problems from platforms like **LeetCode, GeeksforGeeks, HackerRank** — and tracking my progress automatically with this live badge.  
